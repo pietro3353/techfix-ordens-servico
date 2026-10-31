@@ -1,0 +1,10 @@
+# Credenciais e segredos (NUNCA versionar no Git)
+.env
+.streamlit/secrets.toml
+
+# Ambiente virtual e cache do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.gradio/
